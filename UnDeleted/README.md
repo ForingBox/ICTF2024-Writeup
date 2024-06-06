@@ -16,3 +16,8 @@ From this website https://dfir.science/2021/09/What-is-an-AD1.html, i found that
 So, i download the file from the challenge and open FTK imager.
 
 After setting up FTK imager, I add the ad1 file as new evidence
+
+![Figure 1](https://github.com/ForingBox/ICTF2024-Writeup/assets/154965035/a99fb648-eaea-4aa9-b3d8-35a3a1a2452b)
+
+After add file into the tool, the file has a few deleted picture, which related to APU, BOH and FSEC SS.
+
