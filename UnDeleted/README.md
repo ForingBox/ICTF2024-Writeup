@@ -14,3 +14,5 @@ Firstly, I go search what is .ad1 file type and what program can open .ad1 file.
 From this website https://dfir.science/2021/09/What-is-an-AD1.html, i found that .ad1 file is logical images which can be open by ftk imager
 
 So, i download the file from the challenge and open FTK imager.
+
+After setting up FTK imager, I add the ad1 file as new evidence
