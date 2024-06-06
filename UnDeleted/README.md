@@ -32,5 +32,10 @@ So, i browse thru the file list and i found a file description with the file dir
 ![image](https://github.com/ForingBox/ICTF2024-Writeup/assets/154965035/5d63946f-1021-437f-97ac-35574a92e8b3)
 I found that the file deleted date and time in the properties which are 14/4/2024 10:47:50 AM
 
+The further confirm the date and time is the flag, I extract the files and parse it so I can see the file metadata.
+![image](https://github.com/ForingBox/ICTF2024-Writeup/assets/154965035/42ab7304-eaee-4026-905b-5c6bf6c5e3ab)
 
+![image](https://github.com/ForingBox/ICTF2024-Writeup/assets/154965035/aacc39d7-21e9-45d1-9c58-da1971a9d912)
 
+# Flag
+ICTF{14/04/2024 10:47:50 AM}
